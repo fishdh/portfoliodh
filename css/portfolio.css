@@ -256,7 +256,6 @@ align-items: center;}
 #port2.act {transform:translateY(0pt); opacity:1;}
 #port2 img {transform:translateY(-40pt);}
 
-
 /***** Event ****/
 #eventbg{background:#243b5c;}
 #event {
@@ -342,7 +341,7 @@ align-items: center;}
 	#menu a {font-size:0.9rem; }
 	.hitext h1 span{font-size:1.3rem;}
 	#click{display:none;}
-
+	.area h2{font-size:2rem;}
 	#about> div {flex-direction:column; padding:0 10pt;}
 	#about img 	{width:200px;}
 	#skill label{width:38%;}
@@ -368,6 +367,6 @@ align-items: center;}
 	#event img 	{width:100%;}
 
 	#contact div {padding-top:6vh;}
-
+	#contact div section a:last-of-type,#contact div section p{font-size:0.6rem;}
 	#popup img {width:100%;}
 }
